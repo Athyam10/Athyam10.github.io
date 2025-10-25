@@ -99,8 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/Changepicture04.jpg");
+		background-color: #2e314100;
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 0)), url("../../images/Changepicture04.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
